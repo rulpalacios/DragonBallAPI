@@ -3,6 +3,6 @@ json.seasons @seasons do |season|
 
 	json.attributes do
 		json.description season.description
-	  	json.episodes season.episodes
+		json.episodes season.episodes
 	end
 end
