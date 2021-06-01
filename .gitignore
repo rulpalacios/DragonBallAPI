@@ -5,7 +5,8 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 # Ignore DS files
 .DS_Store
-
+# Ignore coverage
+/coverage
 # Ignore bundler config.
 /.bundle
 
